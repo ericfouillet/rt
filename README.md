@@ -1,2 +1,3 @@
 # rt
-Small CLI app to test REST APIs
+
+Very basic CLI app/lib to test REST APIs
